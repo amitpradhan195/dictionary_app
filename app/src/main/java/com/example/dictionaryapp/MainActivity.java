@@ -17,6 +17,7 @@ public class MainActivity extends AppCompatActivity {
     private ListView lstDictionary;
     private Map<String, String> dictionary;
 
+    //array with key and value
     public static final String words[] = {
             "अब | aba","now, from now on",
             "अबेला | abela","bound, tied up confined",
